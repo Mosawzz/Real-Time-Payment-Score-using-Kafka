@@ -1,0 +1,6 @@
+kafka-python
+pandas
+numpy
+scikit-learn
+joblib
+mysql-connector-python
