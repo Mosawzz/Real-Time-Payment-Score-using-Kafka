@@ -111,6 +111,7 @@ kafka-topics.sh --create \
   Database integration (PostgreSQL / MongoDB)
   
   Docker & Kubernetes deployment
+```
 ----
 
 ## 👤 Author
