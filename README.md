@@ -69,7 +69,7 @@ v
 ```bash
 zookeeper-server-start.sh config/zookeeper.properties
 kafka-server-start.sh config/server.properties
-
+```
 ## ▶️ How to Run
 
 ### 2️⃣ Create Kafka Topic
@@ -79,7 +79,7 @@ kafka-topics.sh --create \
   --bootstrap-server localhost:9092 \
   --partitions 1 \
   --replication-factor 1
-
+```
 ### 3️⃣ Run Java Kafka Producer
 
   Starts streaming payment transactions to Kafka in real time.
@@ -111,7 +111,7 @@ kafka-topics.sh --create \
   Database integration (PostgreSQL / MongoDB)
   
   Docker & Kubernetes deployment
-```
+
 ----
 
 ## 👤 Author
