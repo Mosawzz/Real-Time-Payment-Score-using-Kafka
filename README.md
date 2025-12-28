@@ -113,15 +113,3 @@ kafka-topics.sh --create \
   
   Docker & Kubernetes deployment
 
-👤 Author
-
-Mohamed Ezzat Mostafa
-AI Student – Faculty of Computers and Artificial Intelligence, Helwan University
-
-🔗 Links
-
-GitHub: https://github.com/Mosawzz
-
-Kaggle: https://www.kaggle.com/ezzatt
-
-LinkedIn: https://www.linkedin.com/in/mohamed-ezzat-8b3783258/
