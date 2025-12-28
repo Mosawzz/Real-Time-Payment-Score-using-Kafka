@@ -1,4 +1,4 @@
-# Real-Time Payment Score System ⚡💳
+# Real-Time Payment Score System ⚡💳 
 
 A real-time payment risk scoring system that evaluates financial transactions instantly using **Apache Kafka** and **Machine Learning**.  
 The system is designed to mimic real-world financial pipelines where low latency and scalability are critical.
